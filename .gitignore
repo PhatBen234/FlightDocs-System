@@ -1,0 +1,46 @@
+# Ignore the build output
+/bin/
+/obj/
+
+# Ignore user-specific files and settings
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignore files created by JetBrains Rider or Visual Studio for Mac
+.idea/
+.vscode/
+
+# Ignore ASP.NET temporary files
+/wwwroot/
+
+# Ignore dotnet core user-specific settings
+global.json
+
+# Ignore logs
+logs/
+
+# Ignore NuGet packages
+*.nupkg
+.nuget/
+
+# Ignore compiled code
+*.dll
+*.exe
+*.pdb
+*.cache
+*.db
+
+# Ignore build results
+*.log
+
+# Ignore other files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+appsettings.json
+appsettings.*.json
+
