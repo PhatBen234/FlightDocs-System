@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FlightDocs_System.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240318094139_Initial")]
-    partial class Initial
+    [Migration("20250220093441_InitialCreate")]
+    partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

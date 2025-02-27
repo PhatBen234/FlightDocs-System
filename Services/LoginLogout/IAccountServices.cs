@@ -1,5 +1,6 @@
 ﻿using FlightDocs_System.ViewModels.LoginLogout;
 using Microsoft.AspNetCore.Identity;
+using System.Threading.Tasks;
 
 namespace FlightDocs_System.Services.LoginLogout
 {

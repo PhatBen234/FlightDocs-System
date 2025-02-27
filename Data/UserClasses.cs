@@ -1,4 +1,4 @@
-﻿namespace FlightDocs_System.Helpers
+﻿namespace FlightDocs_System.Data
 {
     public class UserClasses
     {
